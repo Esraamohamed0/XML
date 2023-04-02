@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<employees>
+
+  <employee>
+    <name>esraa</name>
+    <phones>
+      <phone type="mobile">01113375563</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>syof</region>
+        <buildingNumber>37</buildingNumber>
+        <street>2</street>
+      </address>
+    </addresses>
+    <email>esraa@gamil.com</email>
+  </employee>
+
+
+    <employee>
+    <name>elsayed</name>
+    <phones>
+      <phone type="work">01229283503</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>syof</region>
+        <buildingNumber>37</buildingNumber>
+        <street>2</street>
+      </address>
+    </addresses>
+    <email>elsayed320@gamil.com</email>
+  </employee>
+
+</employees>

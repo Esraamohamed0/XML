@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<library>
+
+<location>egypt</location>
+<description>all books you need</description>
+<librrarian>esraa</librrarian>
+
+<Books>
+  <Book>
+    <title>intro to programming</title>
+    <Author>esraa elsayed</Author>
+    <ISBN>1234</ISBN>
+    <preface>possimus id labore provident eligendi in incidunt, accusantium rerum</preface>
+    <parts>
+      <part>
+        <title>basics</title>
+        <chapters>
+          <chapter>
+            <title>intro</title>
+            <summary>this chapter start with you in progarmming world</summary>
+            <sections>
+              <section>possimus id labore provident eligendi in incidunt, accusantium rerum</section>
+              <section>possimus id labore provident eligendi in incidunt, accusantium rerum</section>
+            </sections>
+          </chapter>
+        </chapters>
+      </part>
+    </parts>
+  </Book>
+</Books>
+
+</library>

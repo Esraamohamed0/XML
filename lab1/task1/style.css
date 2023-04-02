@@ -1,0 +1,43 @@
+employees{
+    background-color: #705f5f;
+    width: 100%;
+  
+  }
+  
+  employee{
+    display: block;
+    margin-bottom: 20pt;
+    margin-left: 0;
+  
+  }
+  
+  name {
+    display: block;
+    font-size: 1.2em;
+    color:rgb(27, 57, 193);
+    margin-bottom: 10pt;
+    margin-left: 0;
+  
+  }
+  
+  phones {
+    text-indent: 10px;
+    display: block;
+    margin-bottom: 10pt;
+    margin-left: 0;
+  
+  }
+  
+  addresses {
+    text-indent: 10px;
+    display: block;
+    margin-bottom: 10pt;
+    margin-left: 0;
+  
+  }
+  
+  email {
+    text-indent: 10px;
+    display: block;
+    margin-bottom: 10pt;  
+  }
