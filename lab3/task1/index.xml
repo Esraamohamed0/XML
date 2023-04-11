@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="employee.xsd">
+  <employee>
+    <name>esraa</name>
+    <phones>
+      <phone type="home">01113375563</phone>
+    </phones>
+    <addresses>
+      <address>
+        <country>Egypt</country>
+        <city>Alexandria</city>
+        <region>montaza</region>
+        <buildingNumber>37</buildingNumber>
+        <street>2</street>
+      </address>
+    </addresses>
+    <email>esraa320@gmail.com</email>
+  </employee>
+</employees>
